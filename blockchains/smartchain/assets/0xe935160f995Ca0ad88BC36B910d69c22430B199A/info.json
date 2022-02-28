@@ -1,0 +1,11 @@
+{
+    "name": "Dabbland",
+    "website": "https://dabbland.com",
+    "description": "Dabbland is the metaverse for those who love to dabble. Explore a world with various terrains and become a dabblist by learning new skills along the way. Portal to other metaverses, find crypto throughout the lands, or build passive income on your own farm. 3% USDT rewards.",
+    "explorer": "https://bscscan.com/token/0xe935160f995Ca0ad88BC36B910d69c22430B199A",
+    "type": "BEP20",
+    "symbol": "DAB",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xe935160f995Ca0ad88BC36B910d69c22430B199A"
+}
